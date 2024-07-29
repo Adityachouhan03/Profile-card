@@ -16,7 +16,7 @@ This project is a simple and stylish web profile card created using HTML and CSS
 
 ## Live Demo
 
-You can view a live demo of this profile card [here](#). *(Replace with actual demo link if available)*
+You can view a live demo of this profile card [here](https://adityachouhan03.github.io/Profile-card/). *(Replace with actual demo link if available)*
 
 ## Installation
 
